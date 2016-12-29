@@ -1,4 +1,4 @@
-
+// first git upload and change - 12/29/2016
 public class Circle {
  double radius;
  double diameter;
